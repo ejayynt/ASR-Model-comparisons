@@ -1,0 +1,149 @@
+[
+    {
+        "file_id": "Banshankari.wav",
+        "true_transcript": "Haan sir, mera location Banashankari third stage dikha raha hai",
+        "target_entity": "Banashankari",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Bellandur.wav",
+        "true_transcript": "Yes sir, I am new Bellandur central mall. Rastha blocked hai sir aage. Traffic. Traffic idhe.",
+        "target_entity": "Bellandur",
+        "condition": "Traffic",
+        "language": "Code-Switched (Hinglish/Kannada)"
+    },
+    {
+        "file_id": "BTM Layout.wav",
+        "true_transcript": "Haan ji, BTM Layout second stage pahunchne wala hoon. Das minute mein pahunch jaunga sir.",
+        "target_entity": "BTM Layout",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Domlur.wav",
+        "true_transcript": "Domlur flyover ke paas network drop hua tha sir.",
+        "target_entity": "Domlur",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Hebbal.wav",
+        "true_transcript": "Hello sir. Abhi Hebbal flyover ke neeche hun sir. Aawaz aa rha hai? Hello?",
+        "target_entity": "Hebbal",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "HSR layout.wav",
+        "true_transcript": "App kaam nahi kar raha mera, HSR Layout sector six mein phasa hoon.",
+        "target_entity": "HSR Layout",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Indiranagar.wav",
+        "true_transcript": "Sir yeh pickup location Indiranagar hundred feet road pe dikha rha hai. Wahi haina?",
+        "target_entity": "Indiranagar",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Jayanagar.wav",
+        "true_transcript": "Bhaiya auto yahan se Jayanagar fourth block jayega kya?",
+        "target_entity": "Jayanagar",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Jp nagar 9th phase.wav",
+        "true_transcript": "Mai abhi JP Nagar ninth phase wale layout mein hoon.",
+        "target_entity": "JP Nagar",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Kalyan Nagar.wav",
+        "true_transcript": "Kalyan Nagar ke ring road blocked hai kya? Check karo app",
+        "target_entity": "Kalyan Nagar",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Kengeri.wav",
+        "true_transcript": "Hello Haan sir, location alle, pickupu? Kengeri metroa sir? Sari Sari barthide",
+        "target_entity": "Kengeri",
+        "condition": "Traffic",
+        "language": "Code-Switched (Hinglish/Kannada)"
+    },
+    {
+        "file_id": "Kormangala.wav",
+        "true_transcript": "Haan mai Koramangala signal pe khada hoon, traffic bohot hai time lagega sir.",
+        "target_entity": "Koramangala",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Madiwala.wav",
+        "true_transcript": "Haan sir, Madiwala cross karne ke baad right lena hai na sir?",
+        "target_entity": "Madiwala",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Malleshwaram.wav",
+        "true_transcript": "Sir order drop karna hai Malleshwaram mein, door number bhej do.",
+        "target_entity": "Malleshwaram",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Marathahalli.wav",
+        "true_transcript": "Marathahalli bridge ke paas bohot jam hai sir, time lagega.",
+        "target_entity": "Marathahalli",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Peenya.wav",
+        "true_transcript": "Hello? Main Peenya industrial area mein hoon, aap kahan ho sir?",
+        "target_entity": "Peenya",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Rajajinagar.wav",
+        "true_transcript": "Hello sir, Haan sir, mai Rajajinagar metro station, metro station ke paas hun sir.",
+        "target_entity": "Rajajinagar",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Shivaji nagar bus stand.wav",
+        "true_transcript": "Haan sir, drop location kahan hai sir? Shivaji nagar bus stand? Teek hai sir, mai aata hun, do minute.",
+        "target_entity": "Shivaji Nagar Bus Stand",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Whitefield.wav",
+        "true_transcript": "Haan sir, drop location alle? Whitefield? Sir, traffic idhe hogalla.",
+        "target_entity": "Whitefield",
+        "condition": "Traffic and loud music",
+        "language": "Code-Switched (Hinglish/Kannada)"
+    },
+    {
+        "file_id": "Yelahanka.wav",
+        "true_transcript": "Yelahanka new town pahunchne mein aadha ghanta lagega, rasta bohot kharab hai.",
+        "target_entity": "Yelahanka",
+        "condition": "Clear",
+        "language": "Hinglish"
+    },
+    {
+        "file_id": "Yeshwantpur.wav",
+        "true_transcript": "Hello sir, Haan sir, Yeshwantpur railway station ke saamne hi hoon. Woh platform 6 walla side. Aap kahan ho sir?",
+        "target_entity": "Yeshwantpur",
+        "condition": "Traffic",
+        "language": "Hinglish"
+    }
+]
